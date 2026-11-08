@@ -29,6 +29,9 @@ Bipecoin layer 1; https://bscscan.com/token/0x7b72c5362ae7292570cd7bddfa49652328
 
 Bscscan: BIPECOIN AI ORACLE: https://bscscan.com/address/0xa0C87cdC1245D05E2a7b8950AC7d040e6dd54B54#code
 
+bipecoin defi;
+
+https://bscscan.com/token/0xa753222BF7C431CBd41761Ef9812BA26FF2dcF4F#transactions
 Community LINKS:
 
 X (Twitter): https://x.com/BIPECOIN,
